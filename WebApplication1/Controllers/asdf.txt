@@ -1,10 +1,1 @@
-﻿
-
-
-
-
-
-kalog
-good boi
-earl
-david
+﻿PRINT(hLLOWORLD)
